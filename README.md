@@ -1,6 +1,6 @@
 # Superfly-TI-basic-
 I remade Superfly in TI basic. A home screen game, in pure basic for
-16x8 and 26x10 sized TI calculators.
+16x8 and 26x10 caricature TI calculators.
 
 There is a main program called Superfly and 2 sub programs named Z0 and Z1.
 
